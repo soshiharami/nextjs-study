@@ -60,6 +60,7 @@ export default function Home() {
           Powered by{' '}
           <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
         </a>
+        <img src={"/favicon.ico"}  alt="a Logo" />
       </footer>
     </div>
   )
